@@ -1,0 +1,13 @@
+{
+  "adminId": "@dastresanadmin",
+  "iphoneLink": "https://apps.apple.com/app/id1533873488",
+  "androidLink": "https://play.google.com/store/apps/details?id=com.v2ray.ang",
+  "warningTerm": 3,
+  "url": "apanel.dastresan.net",
+  "host": "localhost",
+  "port": "",
+  "user": "sql_apanel_dastr",
+  "passwd": "BPB2JwrJHRGCbaBB",
+  "database": "sql_apanel_dastr",
+  "botToken": "6180462340:AAGdneWTdcx2ABKukerKMXGupT2xY_W1DlE"
+}
